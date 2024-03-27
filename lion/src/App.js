@@ -1,8 +1,7 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  const a = 1
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -15,12 +14,10 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
+        > 
+          어어어어
         </a>
       </header>
     </div>
   );
 }
-
-export default App;
